@@ -166,7 +166,7 @@ Replace:
 
 ### 7. View the Docker Image in ECR
 
-Check in the **Amazon ECR** section in the **AWS Management Console** to see the Docker image under your repository.
+We can check in the **Amazon ECR** section in the **AWS Management Console** to see the Docker image under the created ECR repository.
 
 ---
 
